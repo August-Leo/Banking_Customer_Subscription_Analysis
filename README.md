@@ -7,6 +7,7 @@ Our first objective is to determine which variables have the highest influence o
 The second objective is to determine patterns in variables that produce the most term deposit purchases.
 
 Functional Domain: Banking
+
 Technical Domain: Predictive Modeling
 
 Algorithms/Approach: Feature engineering, Class imbalance handled using up sampling and down sampling simultaneously, Feature Selection, Random Forest.
